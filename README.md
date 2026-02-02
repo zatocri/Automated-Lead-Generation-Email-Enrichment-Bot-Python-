@@ -41,7 +41,7 @@ Setup and Installation
     Clone the repository:
     Bash
 
-    git clone https://github.com/your-username/google-maps-scraper.git
+    git clone https://github.com/zatocri/Automated-Lead-Generation-Email-Enrichment-Bot-Python-.git
     cd google-maps-scraper
 
     Install dependencies:
